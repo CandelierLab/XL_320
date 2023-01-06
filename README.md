@@ -5,5 +5,5 @@ This library provides a class to control one or several of the popular XL 320 se
 
 A complete tutorial with a bill of materials, installation instructions and sample wirings is available at:
 
-<p align="center">https://raphael.candelier.fr/?blog=XL_320</p>
+<p align="center">http://raphael.candelier.fr/?blog=XL_320</p>
 
